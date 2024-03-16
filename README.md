@@ -21,13 +21,21 @@
 **and more!**
 
 `aboutme.json:`
-```JSON
-{
-  "pronouns": "he/him",
-  "occupation": ["Student", "Intern"],
-  "hobbies": ["biking", "video games", "sports", "chilling with friends", "coding", "listenting to music"],
-  "environments": ["Visual Studio Code", "Atom", "Zed", "Xcode", "Eclipse", "Venv"],
-  "code": ["Python", "Java", "Javascript", "EJS", "SQL", "Typescript", "HTML", "CSS"]
+```Python
+about_me = {
+    "pronouns": "he/him",
+    "occupation": ["Student", "Intern"],
+    "hobbies": ["biking", "video games", "sports", "chilling with friends", "coding", "listening to music"],
+    "environments": ["Visual Studio Code", "Atom", "Zed", "Xcode", "Eclipse", "Venv"],
+    "code": ["Python", "Java", "Javascript", "EJS", "SQL", "Typescript", "HTML", "CSS"]
 }
+
+for key, value in about_me.items():
+    if isinstance(value, list):
+        for item in value:
+            print(f"{key}: {item}")
+    else:
+        print(f"{key}: {value}")
+
 
 ```
