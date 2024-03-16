@@ -8,9 +8,17 @@
 - 💬 Ask me about my journey on exploring learning computer science.
 - 📫 How to reach me: cozyat@gmail.com OR www.linkedin.com/in/sohampanda
 
-<a href="https://github.com/cozyat/cozyat/edit/main/stargazers"><img src="https://img.shields.io/github/stars/cozyat/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/cozyat/cozyat/edit/main/network/members"><img src="https://img.shields.io/github/forks/cozyat/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/cozyat/cozyat/edit/main/pulls"><img src="https://img.shields.io/github/issues-pr/cozyat/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/cozyat/cozyat/edit/main/issues"><img src="https://img.shields.io/github/issues/cozyat/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/cozyat/cozyat/edit/main/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cozyat/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/cozyat/cozyat/edit/main/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cozyat/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
