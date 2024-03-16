@@ -8,8 +8,8 @@
 - 💬 Ask me about my journey on exploring learning computer science.
 - 📫 How to reach me: cozyat@gmail.com OR www.linkedin.com/in/sohampanda
 
+`aboutme.json`:
 ```JSON
-`aboutme.json`
 {
   "pronouns": "he/him",
   "occupation": ["student", "intern"],
