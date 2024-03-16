@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Python and Java repositories.
 - 🌱 I’m currently learning DSA and Dynamic Programming!
-- 💬 Ask me about my journey on exploring learning computer science.
+- 💬 Ask me about my journey on exploring and learning computer science.
 - 📫 How to reach me: cozyat@gmail.com OR www.linkedin.com/in/sohampanda
 
 `aboutme.json:`
