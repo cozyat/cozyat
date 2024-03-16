@@ -9,6 +9,7 @@
 - 📫 How to reach me: cozyat@gmail.com OR www.linkedin.com/in/sohampanda
 
 ```JSON
+`aboutme.json`
 {
   "pronouns": "he/him",
   "occupation": ["student", "intern"],
