@@ -18,7 +18,7 @@
 
 <br>
 
-_and more!_
+**and more!**
 
 `aboutme.json:`
 ```JSON
