@@ -11,7 +11,6 @@
 `aboutme.json:`
 ```JSON
 {
-  // File Name: aboutme.json
   "pronouns": "he/him",
   "occupation": ["Student", "Intern"],
   "hobbies": ["biking", "video games", "sports", "chilling with friends", "coding", "listenting to music"],
