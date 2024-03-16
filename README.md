@@ -8,17 +8,11 @@
 - 💬 Ask me about my journey on exploring learning computer science.
 - 📫 How to reach me: cozyat@gmail.com OR www.linkedin.com/in/sohampanda
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+```JSON
+{
+  "pronouns": "he/him",
+  "occupation": ["student", "intern"],
+  "environments": ["Visual Studio Code", "Atom", "Zed", "Xcode", "Eclipse", "Venv"],
+  "code": ["Python", "Java", "Javascript", "EJS", "Typescript", "HTML", "CSS"]
 }
 ```
