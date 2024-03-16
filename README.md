@@ -20,13 +20,17 @@
 
 **and more!**
 
-`aboutme.json:`
+`aboutme.py:`
 ```Python
 about_me = {
     "pronouns": "he/him",
+
     "occupation": ["Student", "Intern"],
+
     "hobbies": ["biking", "video games", "sports", "chilling with friends", "coding", "listening to music"],
+
     "environments": ["Visual Studio Code", "Atom", "Zed", "Xcode", "Eclipse", "Venv"],
+
     "code": ["Python", "Java", "Javascript", "EJS", "SQL", "Typescript", "HTML", "CSS"]
 }
 
