@@ -44,6 +44,3 @@ for key, value in about_me.items():
 
 ```
 
-              - name: Profile Readme Development Stats
-                uses: anmol098/waka-readme-stats@v4
-            
