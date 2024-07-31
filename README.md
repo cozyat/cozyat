@@ -27,11 +27,11 @@ about_me = {
 
     "occupation": ["Student", "Intern"],
 
-    "hobbies": ["biking", "video games", "sports", "chilling with friends", "coding", "listening to music"],
+    "hobbies": ["biking", "billards and pool", "sports", "coding", "music"],
 
     "environments": ["Visual Studio Code", "Atom", "Zed", "Xcode", "Eclipse", "Venv"],
 
-    "code": ["Python", "Java", "Javascript", "EJS", "SQL", "Typescript", "HTML", "CSS"]
+    "code": ["Python", "Java", "Javascript", "EJS", "SQL", "C++", "Typescript", "HTML", "CSS"]
 }
 
 for key, value in about_me.items():
