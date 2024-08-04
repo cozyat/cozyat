@@ -31,7 +31,7 @@ about_me = {
 
     "environments": ["Visual Studio Code", "Atom", "Zed", "Xcode", "Eclipse", "Venv"],
 
-    "code": ["Python", "Java", "Javascript", "EJS", "SQL", "C++", "Typescript", "HTML", "CSS"]
+    "code": ["Python", "Java", "Javascript", "EJS", "SQL", "Typescript", "HTML", "CSS"]
 }
 
 for key, value in about_me.items():
