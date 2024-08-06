@@ -1,7 +1,7 @@
 ### Hi there, I'm Soham. 👋
 
 - 🔭 I’m currently working on Python and Java repositories/projects.
-- 🌱 I’m currently learning DSA and Algorithims!
+- 🌱 I’m currently learning Data Structures and Algorithims!
 - 💬 Ask me about my journey on exploring and learning computer science.
 - 📫 How to reach me: cozyat@gmail.com OR www.linkedin.com/in/sohampanda
 - 💻 Languages: Python, Java, Javascript, EJS, SQL, Typescript, HTML, CSS
