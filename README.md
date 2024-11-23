@@ -34,7 +34,7 @@ about_me = {
     "code": ["Python", "Java", "Javascript", "EJS", "SQL", "Typescript", "HTML", "CSS"]
 }
 
-for key, value in about_me.items():
+for key, value in list(about_me.items()):
     if isinstance(value, list):
         for item in value:
             print(f"{key}: {item}")
